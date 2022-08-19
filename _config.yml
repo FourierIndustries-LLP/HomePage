@@ -2,16 +2,16 @@
 title: FourierIndustries
 subtitle: LLP
 email: hello@fourier.industries
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/" # the subpath of your site, e.g. /blog
+description: Empowering Innovation.
+baseurl: # the subpath of your site, e.g. /blog
 url: https://fourier.industries # the base hostname & protocol for your site
 author:
-street_address: 1 Technology Drive
-city: C03-07
+street_address: 612 Woodlands Avenue 4
+city: "#08-467"
 state:
-zip_code: 138572
-country: Singapore
-phone: (716) 555-5555
+zip_code: Singapore 730612
+country: "UEN: T19LL1300H"
+phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
