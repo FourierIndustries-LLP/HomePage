@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Documentation
-description: Official Knowledge Base for FourierIndustries products
+description:
 image: assets/images/pic11.jpg
 nav-menu: true
+tile-number: 3
 ---
 
 <meta http-equiv = "refresh" content = "1; url = https://knowledge.fourier.industries" />

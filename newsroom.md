@@ -6,6 +6,7 @@ nav-menu: true
 description: null
 image: assets/images/pic07.jpg
 author: null
+tile-number: 2
 ---
 
 <h1>All posts</h1>

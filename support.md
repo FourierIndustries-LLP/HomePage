@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Support
-description: Support for your FourierIndustries products
+description:
 image: assets/images/pic01.jpg
 nav-menu: true
+tile-number: 4
 ---
 
 <meta http-equiv = "refresh" content = "1; url = https://fourierindustries.atlassian.net/servicedesk/customer/portals" />

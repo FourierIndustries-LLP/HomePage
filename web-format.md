@@ -17,6 +17,7 @@ This document seeks to outline the format of the website, how the website conten
     - newsroom.md: Latest news from the company, based on the all_posts.md template
     - documentation.md -> redirect to the knowledge base https://knowledge.fourier.industries
     - support.md -> redirect to the support page https://fourierindustries.atlassian.net/servicedesk/customer/portals
+    - NOTE: the elements above have a custom property called `tile-number`, which specifies the order they should be shown in the tile menu, instead of being sorted alphabetically
 
 - elements.md: Internal page. Used for sourcing UI elements
 - generic.md: Internal page. Used as a template for blog posts
