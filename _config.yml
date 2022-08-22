@@ -12,6 +12,7 @@ state:
 zip_code: Singapore 730612
 country: "UEN: T19LL1300H"
 phone:
+formspree_url: https://formspree.io/f/xknegnbo
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
