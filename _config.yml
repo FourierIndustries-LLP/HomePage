@@ -1,16 +1,16 @@
 # site settings
 title: FourierIndustries
-subtitle: LLP
+subtitle:
 email: hello@fourier.industries
 description: Empowering Innovation.
 baseurl: # the subpath of your site, e.g. /blog
 url: https://fourier.industries # the base hostname & protocol for your site
 author:
-street_address: 612 Woodlands Avenue 4
-city: "#08-467"
+street_address: 130 Choa Chu Kang Avenue 1
+city: 
 state:
-zip_code: Singapore 730612
-country: "UEN: T19LL1300H"
+zip_code: Singapore 680130
+country: "UEN: 53468469J"
 phone:
 formspree_url: https://formspree.io/f/xknegnbo
 
@@ -26,7 +26,7 @@ socials:
   GitHub: https://github.com/FourierIndustries-LLP
   GitLab:
   Google-Plus: 
-  Instagram:
+  Instagram: https://www.carousell.sg/u/fourier.industries/
   LinkedIn: 
   Twitter: 
   Facebook:
