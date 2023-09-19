@@ -2,7 +2,7 @@
 title: Products
 layout: landing
 description:
-image: assets/images/pic07.jpg
+image: assets/images/products.jpg
 nav-menu: true
 tile-number: 1
 ---

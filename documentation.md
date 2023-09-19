@@ -2,7 +2,7 @@
 layout: page
 title: Documentation
 description:
-image: assets/images/pic11.jpg
+image: assets/images/documentation.jpg
 nav-menu: true
 tile-number: 3
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: Support
 description:
-image: assets/images/pic01.jpg
+image: assets/images/support.jpg
 nav-menu: true
 tile-number: 4
 ---
