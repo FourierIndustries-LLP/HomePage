@@ -30,14 +30,14 @@ tile-number: 2
             <header class="major">
                 <h2>3D Printing Service in Singapore</h2>
             </header>
-            <p><strong>We provide one of the cheapest and most cost effective 3D printing services in Singapore</strong>, catering to the West side (Choa Chu Kang and surrounding areas). We also have a special discounted pricing scheme available for SUTD students, please contact us directly for the pricing.</p>
+            <p><strong>We provide one of the cheapest and most cost effective 3D printing services in Singapore</strong>, providing quality prints in a large variety of colours (and even multicolour printing in the same model!). We also have a special discounted pricing scheme available for SUTD students, please contact us directly for the pricing.</p>
             <h3>Benefits</h3>
             <p>Here are some of the benefits when you order from us:</p>
             <ol>
                 <li>No minimum order!</li>
                 <li>Rush order available at no extra cost! (Subject to availability of printers)</li>
 				<li>Fast lead times: Regular order lead time is 2-3 days, rush order lead time is 1-2 days depending on printing time</li>
-                <li>Fully transparent pricing: we only count by per gram of filament, no per-hour costs</li>
+                <li>Transparent pricing: we only count by per gram of filament, no per-hour costs</li>
             </ol>
             <h3>Pricing Guides</h3>
             <div class="row 200%">
@@ -117,8 +117,8 @@ tile-number: 2
 			<ol>
 				<li>Start a chat on Carousell or WhatsApp using the links below and tell us your model requirements, such as strength and application. We will be happy to advice you on design and printing settings!</li>
 				<li>Email us at <a href="mailto:hello@fourier.industries">hello@fourier.industries</a> your STL, STP/STEP or 3MF file, or send us the file through WhatsApp</li>
-				<li>We will reply with a quotation. You can pay directly to the QR code that we will provide. Once you complete the payment, we will immediately start printing, and we will notify you on Carousell chat/WhatsApp of the exact collection point and shelf to collect from</li>
-				<li>Once your print is complete, we will inform you that it is ready to collect at our <a href="https://www.google.com/maps/place/FourierIndustries/@1.3815471,103.7504134,15z/data=!4m6!3m5!1s0x31da116c4bd44267:0xd6d719b18e473555!8m2!3d1.3815471!4d103.7504134!16s%2Fg%2F11vb7c4_4m?entry=ttu">self-collection point in Choa Chu Kang</a>. For now, we only offer self collection as the method of delivery</li>
+				<li>We will reply with a quotation. You can pay directly to the QR code that we will provide. Once you complete the payment, we will immediately start printing, and we will notify you on Carousell chat/WhatsApp of the exact collection point and shelf to collect from, or the delivery options available</li>
+				<li>Once your print is complete, we will inform you that it is ready to collect at our <a href="https://www.google.com/maps/place/FourierIndustries/@1.3815471,103.7504134,15z/data=!4m6!3m5!1s0x31da116c4bd44267:0xd6d719b18e473555!8m2!3d1.3815471!4d103.7504134!16s%2Fg%2F11vb7c4_4m?entry=ttu">self-collection point in Choa Chu Kang</a>. Alternatively, you can have it delivered via Lalamove or Grab Express. We only offer same-day delivery options as most 3D printed models are fragile and shipping them via regular courier could easily break them.</li>
 			</ol>
 			<ul class="actions">
                 <li><a href="https://www.carousell.sg/p/cheap-3d-printing-service-local-singapore-acra-registered-1248496206/" class="button special icon fa-instagram" style="margin-top: 8px">Buy on Carousell</a></li>
@@ -142,12 +142,17 @@ tile-number: 2
 				<li><a href="https://www.printables.com/">https://www.printables.com/</a></li>
 				<li><a href="https://www.thingiverse.com/">https://www.thingiverse.com/</a></li>
 				<li><a href="https://cults3d.com/en">https://cults3d.com/en</a></li>
+                <li><a href="https://makerworld.com/en">https://makerworld.com/en</a></li>
+                <li><a href="https://thangs.com/">https://thangs.com/</a></li>
+                <li><a href="https://www.yeggi.com/">https://www.yeggi.com/</a></li>
+                <li><a href="https://grabcad.com/library">https://grabcad.com/library</a></li>
+                <li><a href="https://www.turbosquid.com/">https://www.turbosquid.com/</a></li>
 			</ul>
 			<div class="row 200%">
 				<div class="6u 12u$(medium)">
-					<h3>Collection</h3>
-					<p>Collection of prints is only available at the <a href="https://www.google.com/maps/place/FourierIndustries/@1.3815471,103.7504134,15z/data=!4m6!3m5!1s0x31da116c4bd44267:0xd6d719b18e473555!8m2!3d1.3815471!4d103.7504134!16s%2Fg%2F11vb7c4_4m?entry=ttu">self-collection point in Choa Chu Kang</a>. No delivery services are provided at this moment as 3D printed objects can be easily damaged in shipment.</p>
-					<p>When you place an order with us, we will inform you of the exact location, shelf and bag number to pick up your order.</p>
+					<h3>Collection/Delivery</h3>
+					<p>Collection of prints is available at the <a href="https://www.google.com/maps/place/FourierIndustries/@1.3815471,103.7504134,15z/data=!4m6!3m5!1s0x31da116c4bd44267:0xd6d719b18e473555!8m2!3d1.3815471!4d103.7504134!16s%2Fg%2F11vb7c4_4m?entry=ttu">self-collection point in Choa Chu Kang</a>. Only same-day delivery services (e.g. Lalamove, Grab Express) are available as 3D printed objects can be easily damaged in regular shipment.</p>
+					<p>When you place an order with us, we will inform you of the exact location, shelf and bag number to pick up your order. If you are arranging for delivery, we will confirm with you the date/time of delivery and arrange the delivery accordingly.</p>
 				</div>
 				<div class="6u 12u$(medium) map-responsive">
 					<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15954.634026848325!2d103.7504134!3d1.3815471!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da116c4bd44267%3A0xd6d719b18e473555!2sFourierIndustries!5e0!3m2!1sen!2ssg!4v1695264865437!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
