@@ -63,6 +63,11 @@ tile-number: 2
                                     <td>Excellent filament that is strong and doesn't break easily, but flexes instead. Suitable for outdoor use. </td>
                                     <td>$0.08/g</td>
                                 </tr>
+                                <tr>
+                                    <td>PETG-CF</td>
+                                    <td>Upgraded version of PETG that's 20% more impact resistant than ordinary PETG with a special texture. The strongest material we have in our catalogue and heat resistant up to 74˚C.</td>
+                                    <td>$0.16/g</td>
+                                </tr>
 								<tr>
                                     <td>TPU 95A</td>
                                     <td>Flexible filament for objects like phone cases.</td>
@@ -103,6 +108,11 @@ tile-number: 2
                                     <td>Complex model preprocessing</td>
                                     <td>Complex preprocessing of model includes any operation that uses an external software that is not part of the slicer. E.g. MeshLab, Fusion 360, Blender</td>
                                     <td>$5.00/model</td>
+                                </tr>
+                                <tr>
+                                    <td>Model colouring</td>
+                                    <td>Colouring of a 3D model with the slicer software for multicolour printing that takes less than 20 minutes.</td>
+                                    <td>$10.00/model</td>
                                 </tr>
                             </tbody>
                         </table>
